@@ -1,0 +1,23 @@
+[
+  {
+    "policyId": "P001",
+    "provider": "Provider A",
+    "premium": 12000,
+    "coverageAmount": 500000,
+    "rating": 4.5
+  },
+  {
+    "policyId": "P002",
+    "provider": "Provider B",
+    "premium": 10000,
+    "coverageAmount": 400000,
+    "rating": 4.0
+  },
+  {
+    "policyId": "P003",
+    "provider": "Provider C",
+    "premium": 13000,
+    "coverageAmount": 600000,
+    "rating": 4.8
+  }
+]
